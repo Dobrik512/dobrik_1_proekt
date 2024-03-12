@@ -1,0 +1,11 @@
+
+o
+java:S1192
+"MDefine a constant instead of duplicating this literal "DeutscheBank" 3 times.(ƒ…üÿÿÿÿ8°İğÚà1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Û¹ 8Ü˜ïÚà1
+W	java:S125"<This block of commented-out lines of code should be removed.(ÚãŸL8ğ˜ïÚà1
+]	java:S125"<This block of commented-out lines of code should be removed.(åµ•Üüÿÿÿÿ8ğ˜ïÚà1
+X	java:S125"<This block of commented-out lines of code should be removed.(ø×¿™8ò˜ïÚà1
+X	java:S125"<This block of commented-out lines of code should be removed.(ø×¿™8ò˜ïÚà1
+G	java:S106-"+Replace this use of System.out by a logger.(ñ£Å8¶ŸñÚà1
+G	java:S1066"+Replace this use of System.out by a logger.(ñ£Å8¹ŸñÚà1
